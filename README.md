@@ -1,2 +1,2 @@
 # user-proj-repo
-repository for organisation project
+repository for user project
